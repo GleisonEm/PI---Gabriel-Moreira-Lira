@@ -20,3 +20,8 @@ https://www.figma.com/proto/U5hY6VjmFVs3iSBibU68r2/Untitled?type=design&node-id=
 segue o codigo nessa branch
 
 https://github.com/GleisonEm/PI---Gabriel-Moreira-Lira/tree/codigo
+
+
+se não conseguir rodar segue o site
+
+http://159.223.198.152:3007/
